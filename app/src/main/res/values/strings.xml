@@ -45,4 +45,9 @@
     <string name="applyButton">Подать заявку</string>
     <string name="createLeagueButton">Создать лигу</string>
 
+    // Shop
+    <string name="loading">Please wait Loading…</string>
+    <string name="new_product">New</string>
+    <string name="added_product">Added</string>
+
 </resources>
